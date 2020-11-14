@@ -325,4 +325,4 @@ async def reload(ctx, *, cog: str):
 #start the server
 keep_alive.keep_alive()
 
-bot.run("TOKEN")
+bot.run("NjY5Nzg0ODg1NDA1Mjg2NDIy.Xik3yA.rH9mMCCLhQhwuVnE41el14g9lI4")
